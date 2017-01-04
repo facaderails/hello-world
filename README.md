@@ -4,6 +4,6 @@ a **tiny hacker** in the heart of Africa lives in his world of mobile code and h
 
 ## my world
 
-* i code
-* dream big
-* fight hard
+1. i code
+2. dream big
+3. fight hard
